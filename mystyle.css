@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{
+    margin:0;
+   /* padding:0;*/
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    
+}
+/* fixed padding to all my sections */
+section{
+   
+overflow: hidden;
+justify-content: space-between;}
+hr.solid {
+    border-top: 1px solid #bbb;
+    width:40%;
+    margin-left:30%;
+  }
+  button{
+      font-size:16px;
+  }
+.ratng{
+    position:absolute;
+    left:15%;
+    top:20px;
+    border-radius: 60px;
+    min-height:45vh;
+  
+    font-size:16px;
+    width:70%;
+    display:flex;
+    justify-content: space-between;
+   
+    background-color:rgba(32, 36, 33, 0.459);
+   margin:auto;
+}
+
+#statistics{
+    min-height:100vh;
+   
+    background-color:rgba(225,225,225,0.9);
+}
+
+#head-container{
+
+   margin-bottom: 15px;
+    text-align:center;
+    font-weight:bold ;
+
+
+
+}
+.content-table{
+   
+}
+a{
+    color:white;
+}
+.contentbx{
+    margin-top:15px;
+    margin-left:25%;
+   position:relative;
+   top:20px;
+    padding:10px;
+    height:150px;
+    font-size:10px;
+    width:50%;
+    background: rgba(225,225,225,0.6);
+    border-radius: 20px;
+    text-align:center;
+    padding-top:10px;
+    color:white;
+   
+    
+}
+.contentbx p{
+    font-weight:500;
+}
+
+
+
+.contentbx h3{
+    font-weight:300;
+    margin-bottom:10px;
+}
+#btn {
+    margin-right:10px;
+}
+
+.developer {
+
+    margin:auto;
+    position:relative;
+   
+}
+.developer h6{
+    font-size:small;
+}
+#data{
+    position:absolute;
+    top:50%;
+    display:flex;
+    padding:10px;
+    justify-content: space-between;
+   
+    height:40vh;
+    width:100%;
+}
+#tabl{
+    position:relative;
+   height:200px;
+    width:500px;
+    padding:20px;
+    margin:10px 80px;
+   
+   
+    
+}
+
+#chrt{
+    position:relative;
+    height:450px;
+    width:450px;
+    margin-left:5%;
+    margin-right:20%;
+    margin-top:10px;
+}
+/*#myChart{
+   
+   
+    align-items: right;
+   /* position:absolute;
+top:63em;
+left:50em;
+border-collapse: collapse;
+border-radius:5px 5px 0 0;
+/*overflow:hidden;
+box-shadow:0 0 20px rgba(0,0,0,0.15);
+  
+}*/
+
+canvas{
+   
+   
+}
+
+
+.content-table tr{
+    
+    
+    color:black;
+    text-align:left;
+    font-weight:bold;
+}
+.content-table td{
+    
+    padding:6px 10px;
+    border-bottom:1px solid #dddddd;
+}
+.content-table tr:nth-of-type(even){
+    
+    background-color: #009879;
+}
+.content-table tr:last-of-type{
+    
+    border-bottom:1px solid  #009879;
+}
+
+
+.content-table{
+    
+    border-collapse: collapse;
+    position:relative;
+    width:450px;
+    max-height:200px;
+    font-size:10px;
+   
+    border-radius:2px 2px 0 0;
+    overflow:hidden;
+    box-shadow:0 0 20px rgba(19, 8, 8, 0.15);
+   
+   
+    
+}
+@media (max-width: 768px)
+{
+    #statistics{
+        width:100%;
+    }
+    #data{
+        display:block;
+    }
+    .content-table{
+        width:100%;
+       
+    }
+   #tabl{
+       width:90%;
+       height:auto;
+       
+       margin-left:5%;
+       margin-top:0;
+       padding:10px;
+   }
+   #chrt{
+       width:90%;
+       height:auto;
+       margin-left:5%;
+       position:relative;
+       margin-top:10px;
+
+   }
+   .contentbx h5{
+       font-size:15px;
+   }
+   #btn{
+       font-size: 12px;
+   }
+   #stat{
+    font-size: 12px;
+    border-radius: 10px;
+   }
+   hr{
+       width:50%;
+   }
+   #ratng{
+       margin-top:5px;
+       width:70%;
+   }
+}
+@media (max-width: 293px)
+{
+    .contentbx h5{
+        font-size:10px;
+    }
+    #stats{
+        width:10%;
+    }
+}
