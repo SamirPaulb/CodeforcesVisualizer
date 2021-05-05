@@ -8,7 +8,7 @@
 
 
                           
-<a href="url"><img src="https://raw.githubusercontent.com/SamirPaul1/CodeforcesVisualizer/main/CodeforceVisualiser.png" align="left" height="748" width="1048" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/SamirPaul1/CodeforcesVisualizer/main/CodeforceVisualiser.png" align="left" height="648" width="1048" ></a>
 
 
 
