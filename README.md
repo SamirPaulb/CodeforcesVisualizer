@@ -1,3 +1,2 @@
 # codeforces-stats-analyzer
-can analyze an user profile
-<a href="https://prashantsinghrajput8759.github.io/codeforces-stats-analyzer/">here the link</a>
+# User can input any Username and can see particular user rating as well as other informations in the form of tables and graph.(Html,Css,Jquery,JS charts,Codeforces APi)
