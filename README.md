@@ -13,7 +13,7 @@ User can input any Username and can see particular user rating as well as other 
 
 
                           
-<a href="url"><img src="https://raw.githubusercontent.com/SamirPaul1/CodeforcesVisualizer/main/CodeforceVisualiser.png" align="left" height="648" width="1048" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/SamirPaul1/CodeforcesVisualizer/main/codeforcesvisualiser.png" align="left" height="648" width="1048" ></a>
 
 
 
