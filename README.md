@@ -6,7 +6,8 @@ User can input any Username and can see particular user rating as well as other 
 ---
 
 ### Visit the page and know your codefrces informations: 
-##   https://samirpaul1.github.io/CodeforcesVisualizer/
+##  https://codeforcesvisualizer.herokuapp.com
+###  https://samirpaul1.github.io/CodeforcesVisualizer
 
 ---
 
